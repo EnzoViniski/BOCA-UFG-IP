@@ -1,4 +1,4 @@
 # BOCA
 ## UFG - IP
 
--Exercícios do boca
+- Meus exercícios do boca
